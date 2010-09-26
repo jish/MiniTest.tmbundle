@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>must_be_close_to ${1:expected}, ${0:allowed_variance}</string>
 	<key>name</key>
-	<string>must_be_close_to (mbct)</string>
+	<string>must_be_close_to [mbct⇥]</string>
 	<key>scope</key>
 	<string>source.ruby</string>
 	<key>tabTrigger</key>
