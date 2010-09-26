@@ -9,12 +9,12 @@
 
 end</string>
 	<key>name</key>
-	<string>describe [des⇥]</string>
+	<string>describe [desc⇥]</string>
 	<key>scope</key>
 	<string>source.ruby</string>
 	<key>tabTrigger</key>
-	<string>des</string>
+	<string>desc</string>
 	<key>uuid</key>
-	<string>539B786F-8161-4C2A-A6A4-D8F748CE983D</string>
+	<string>06EFCE53-6AF0-41B6-999F-AE27F9EADAD2</string>
 </dict>
 </plist>
