@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>must_be_close_to ${1:expected}, ${0:allowed_variance}</string>
+	<string>must_be_empty</string>
 	<key>name</key>
-	<string>must_be_close_to [mbc⇥]</string>
+	<string>must_be_empty</string>
 	<key>scope</key>
 	<string>source.ruby</string>
 	<key>tabTrigger</key>
-	<string>mbc</string>
+	<string>mbe</string>
 	<key>uuid</key>
-	<string>FDDDB5C9-429D-48FA-B7B5-656C6C960747</string>
+	<string>B7EE04F7-F435-402C-B648-1AF7CF4A99BA</string>
 </dict>
 </plist>

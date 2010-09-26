@@ -5,12 +5,12 @@
 	<key>content</key>
 	<string>must_be_close_to ${1:expected}, ${0:allowed_variance}</string>
 	<key>name</key>
-	<string>must_be_close_to [mbc⇥]</string>
+	<string>must_be_close_to (mbct)</string>
 	<key>scope</key>
 	<string>source.ruby</string>
 	<key>tabTrigger</key>
-	<string>mbc</string>
+	<string>mbct</string>
 	<key>uuid</key>
-	<string>FDDDB5C9-429D-48FA-B7B5-656C6C960747</string>
+	<string>7F7D54DE-6C93-4975-BAC3-6990BE78D77E</string>
 </dict>
 </plist>
