@@ -1,4 +1,4 @@
-## MinitTest bundle
+## MiniTest bundle
 
 The MiniTest bundle is currently focusing on the spec snippets, since the assert snippets are already included in the default Ruby bundle.
 
