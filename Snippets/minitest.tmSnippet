@@ -6,7 +6,7 @@
 	<string>require 'minitest/autorun'
 require '${TM_FILENAME/(\w+)_(test|spec).rb/$1/g}'
 
-class ${TM_FILENAME/([a-z]+)(_([a-z]+))*_test\.rb/\u$1\u$3/g}Test &lt; MiniTest::Unit::TestCase
+class ${TM_FILENAME/([a-z]+)(_([a-z]+))*_test\.rb/\u$1\u$3/g}Test &lt; MiniTest::Test
 
 	$0
 
