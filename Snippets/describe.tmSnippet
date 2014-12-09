@@ -3,10 +3,8 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>describe ${1:Class} do
-
+	<string>describe ${1:'${2:something interesting}'} do
 	it$0
-
 end</string>
 	<key>name</key>
 	<string>describe [des⇥]</string>
